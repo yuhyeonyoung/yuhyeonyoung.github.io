@@ -17,7 +17,7 @@ body {
   
   /* 헤더 */
   header {
-    background-color: #333;
+    background-color: #669999;
     color: #fff;
   }
   
@@ -55,7 +55,7 @@ body {
   
   /* 푸터 */
   footer {
-    background-color: #333;
+    background-color: #669999;
     color: #fff;
     text-align: center;
   }
